@@ -1,0 +1,8 @@
+.Form {
+  display: inline-block;
+  margin-top: 10rem;
+  width: 40%;
+}
+.FormInput {
+  margin-bottom: 1.5rem;
+}
